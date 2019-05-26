@@ -1,8 +1,10 @@
+# Folders ignorados
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Cc]ertificados/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -35,3 +37,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.keystore

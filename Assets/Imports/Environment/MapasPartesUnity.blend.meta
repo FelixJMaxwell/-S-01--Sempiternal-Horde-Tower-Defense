@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 6ec286c2f1712d440bc405639d565afa
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AguaRioT1
+    100002: AguaRioT2
+    100004: AguaRioT3
+    100006: AguaRioT4
+    100008: Arbol1
+    100010: Arbol2
+    100012: Arbol3
+    100014: ArbolPino
+    100016: ArbolQuad
+    100018: Cactus1
+    100020: Cactus2
+    100022: CaminoT1
+    100024: CaminoT2
+    100026: CaminoT3
+    100028: CaminoT4
+    100030: CaminoT5
+    100032: Cube_002
+    100034: Escaleras2
+    100036: Esceleras1
+    100038: EsquinasWaypoint
+    100040: EsquinasWaypoint_001
+    100042: GolemHeadStart
+    100044: MagmaLow
+    100046: ManoGolem
+    100048: //RootNode
+    100050: ParedT0
+    100052: ParedT1
+    100054: ParedT2
+    100056: ParedT3
+    100058: PilarDmg
+    100060: PilarFiRa
+    100062: PilarRango
+    100064: Plane
+    100066: PortalLowPoly
+    100068: PuenteT0
+    100070: PuertaCabezaGateStart
+    100072: PuertaCabezaStart
+    100074: SalidaSTART
+    100076: SalidaSTARTPuerta
+    100078: SombreroM
+    100080: TerrenoPastoT1P
+    100082: TerrenoPastoT1P_001
+    100084: TerrenoPastoT2P
+    100086: TerrenoPastoT3P
+    100088: TerrenoT1
+    100090: TerrenoT3
+    100092: TombStone2
+    100094: TomStone1
+    100096: TorreEND
+    100098: Totem
+    100100: Totem_001
+    100102: TumbaStart
+    100104: VolcanoStart
+    100106: TerrenoT1Part1
+    100108: TerrenoT1_001
+    100110: TerrenoT1_001_MeshPart0
+    100112: TerrenoT1_001_MeshPart1
+    100114: Plane_001
+    100116: MapasPlanos
+    100118: MapaNivel4
+    100120: MapaPlano
+    100122: TerrenoT5Mapa5
+    400000: AguaRioT1
+    400002: AguaRioT2
+    400004: AguaRioT3
+    400006: AguaRioT4
+    400008: Arbol1
+    400010: Arbol2
+    400012: Arbol3
+    400014: ArbolPino
+    400016: ArbolQuad
+    400018: Cactus1
+    400020: Cactus2
+    400022: CaminoT1
+    400024: CaminoT2
+    400026: CaminoT3
+    400028: CaminoT4
+    400030: CaminoT5
+    400032: Cube_002
+    400034: Escaleras2
+    400036: Esceleras1
+    400038: EsquinasWaypoint
+    400040: EsquinasWaypoint_001
+    400042: GolemHeadStart
+    400044: MagmaLow
+    400046: ManoGolem
+    400048: //RootNode
+    400050: ParedT0
+    400052: ParedT1
+    400054: ParedT2
+    400056: ParedT3
+    400058: PilarDmg
+    400060: PilarFiRa
+    400062: PilarRango
+    400064: Plane
+    400066: PortalLowPoly
+    400068: PuenteT0
+    400070: PuertaCabezaGateStart
+    400072: PuertaCabezaStart
+    400074: SalidaSTART
+    400076: SalidaSTARTPuerta
+    400078: SombreroM
+    400080: TerrenoPastoT1P
+    400082: TerrenoPastoT1P_001
+    400084: TerrenoPastoT2P
+    400086: TerrenoPastoT3P
+    400088: TerrenoT1
+    400090: TerrenoT3
+    400092: TombStone2
+    400094: TomStone1
+    400096: TorreEND
+    400098: Totem
+    400100: Totem_001
+    400102: TumbaStart
+    400104: VolcanoStart
+    400106: TerrenoT1Part1
+    400108: TerrenoT1_001
+    400110: TerrenoT1_001_MeshPart0
+    400112: TerrenoT1_001_MeshPart1
+    400114: Plane_001
+    400116: MapasPlanos
+    400118: MapaNivel4
+    400120: MapaPlano
+    400122: TerrenoT5Mapa5
+    2300000: AguaRioT1
+    2300002: AguaRioT2
+    2300004: AguaRioT3
+    2300006: AguaRioT4
+    2300008: Arbol1
+    2300010: Arbol2
+    2300012: Arbol3
+    2300014: ArbolPino
+    2300016: ArbolQuad
+    2300018: Cactus1
+    2300020: Cactus2
+    2300022: CaminoT1
+    2300024: CaminoT2
+    2300026: CaminoT3
+    2300028: CaminoT4
+    2300030: CaminoT5
+    2300032: Cube_002
+    2300034: Escaleras2
+    2300036: Esceleras1
+    2300038: EsquinasWaypoint
+    2300040: EsquinasWaypoint_001
+    2300042: GolemHeadStart
+    2300044: MagmaLow
+    2300046: ManoGolem
+    2300048: ParedT0
+    2300050: ParedT1
+    2300052: ParedT2
+    2300054: ParedT3
+    2300056: PilarDmg
+    2300058: PilarFiRa
+    2300060: PilarRango
+    2300062: Plane
+    2300064: PortalLowPoly
+    2300066: PuenteT0
+    2300068: PuertaCabezaGateStart
+    2300070: PuertaCabezaStart
+    2300072: SalidaSTART
+    2300074: SalidaSTARTPuerta
+    2300076: SombreroM
+    2300078: TerrenoPastoT1P
+    2300080: TerrenoPastoT1P_001
+    2300082: TerrenoPastoT2P
+    2300084: TerrenoPastoT3P
+    2300086: TerrenoT1
+    2300088: TerrenoT3
+    2300090: TombStone2
+    2300092: TomStone1
+    2300094: TorreEND
+    2300096: Totem
+    2300098: Totem_001
+    2300100: TumbaStart
+    2300102: VolcanoStart
+    2300104: TerrenoT1Part1
+    2300106: TerrenoT1_001_MeshPart0
+    2300108: TerrenoT1_001_MeshPart1
+    2300110: TerrenoT1_001
+    2300112: Plane_001
+    2300114: MapasPlanos
+    2300116: MapaNivel4
+    2300118: MapaPlano
+    2300120: TerrenoT5Mapa5
+    3300000: AguaRioT1
+    3300002: AguaRioT2
+    3300004: AguaRioT3
+    3300006: AguaRioT4
+    3300008: Arbol1
+    3300010: Arbol2
+    3300012: Arbol3
+    3300014: ArbolPino
+    3300016: ArbolQuad
+    3300018: Cactus1
+    3300020: Cactus2
+    3300022: CaminoT1
+    3300024: CaminoT2
+    3300026: CaminoT3
+    3300028: CaminoT4
+    3300030: CaminoT5
+    3300032: Cube_002
+    3300034: Escaleras2
+    3300036: Esceleras1
+    3300038: EsquinasWaypoint
+    3300040: EsquinasWaypoint_001
+    3300042: GolemHeadStart
+    3300044: MagmaLow
+    3300046: ManoGolem
+    3300048: ParedT0
+    3300050: ParedT1
+    3300052: ParedT2
+    3300054: ParedT3
+    3300056: PilarDmg
+    3300058: PilarFiRa
+    3300060: PilarRango
+    3300062: Plane
+    3300064: PortalLowPoly
+    3300066: PuenteT0
+    3300068: PuertaCabezaGateStart
+    3300070: PuertaCabezaStart
+    3300072: SalidaSTART
+    3300074: SalidaSTARTPuerta
+    3300076: SombreroM
+    3300078: TerrenoPastoT1P
+    3300080: TerrenoPastoT1P_001
+    3300082: TerrenoPastoT2P
+    3300084: TerrenoPastoT3P
+    3300086: TerrenoT1
+    3300088: TerrenoT3
+    3300090: TombStone2
+    3300092: TomStone1
+    3300094: TorreEND
+    3300096: Totem
+    3300098: Totem_001
+    3300100: TumbaStart
+    3300102: VolcanoStart
+    3300104: TerrenoT1Part1
+    3300106: TerrenoT1_001_MeshPart0
+    3300108: TerrenoT1_001_MeshPart1
+    3300110: TerrenoT1_001
+    3300112: Plane_001
+    3300114: MapasPlanos
+    3300116: MapaNivel4
+    3300118: MapaPlano
+    3300120: TerrenoT5Mapa5
+    4300000: Plane
+    4300002: Totem_001
+    4300004: ParedT3
+    4300006: ParedT2
+    4300008: ParedT1
+    4300010: ParedT0
+    4300012: EsquinasWaypoint_001
+    4300014: Escaleras2
+    4300016: TombStone2
+    4300018: TomStone1
+    4300020: TumbaStart
+    4300022: Esceleras1
+    4300024: VolcanoStart
+    4300026: SombreroM
+    4300028: Cactus2
+    4300030: Cactus1
+    4300032: PilarFiRa
+    4300034: PilarDmg
+    4300036: GolemHeadStart
+    4300038: TorreEND
+    4300040: PilarRango
+    4300042: Totem
+    4300044: TerrenoPastoT1P_001
+    4300046: ArbolPino
+    4300048: ArbolQuad
+    4300050: TerrenoPastoT3P
+    4300052: TerrenoPastoT2P
+    4300054: TerrenoPastoT1P
+    4300056: PuenteT0
+    4300058: CaminoT1
+    4300060: CaminoT5
+    4300062: CaminoT4
+    4300064: CaminoT3
+    4300066: CaminoT2
+    4300068: AguaRioT4
+    4300070: AguaRioT3
+    4300072: AguaRioT2
+    4300074: AguaRioT1
+    4300076: EsquinasWaypoint
+    4300078: PuertaCabezaGateStart
+    4300080: PuertaCabezaStart
+    4300082: PortalLowPoly
+    4300084: SalidaSTARTPuerta
+    4300086: SalidaSTART
+    4300088: ManoGolem
+    4300090: MagmaLow
+    4300092: Cube_002
+    4300094: TerrenoT3
+    4300096: TerrenoT1
+    4300098: Arbol3
+    4300100: Arbol2
+    4300102: Arbol1
+    4300104: TerrenoT1Part1
+    4300106: TerrenoT1_001_MeshPart0
+    4300108: TerrenoT1_001_MeshPart1
+    4300110: TerrenoT1_001
+    4300112: Plane_001
+    4300114: MapasPlanos
+    4300116: MapaPlano
+    4300118: MapaNivel4
+    4300120: TerrenoT5Mapa5
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbol1
+    second: {fileID: 2100000, guid: 0861384d634b8dc4aae2b2a4eb0c9a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbol2
+    second: {fileID: 2100000, guid: d7b0da0717a2578478bab19f0200ed7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbol3
+    second: {fileID: 2100000, guid: 376283bfd554ef14284c6ca6f66de7b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArbolQuad
+    second: {fileID: 2100000, guid: b08d29abd1f0ffa4f92485b3561a16e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaldosaDoble
+    second: {fileID: 2100000, guid: ff7fcd4b66f8d954bb0a713824fdd728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cactus1
+    second: {fileID: 2100000, guid: 22522bc674c66164a9cd8aef514eca5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cactus2
+    second: {fileID: 2100000, guid: 217eefcf6d0e88e498e7a007339d0b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Centro
+    second: {fileID: 2100000, guid: 756ccf39713ad6f45b7a0f7efe76d814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CuerpoDiamond
+    second: {fileID: 2100000, guid: 4f8780056cec0114d9b6d1a3128e47bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GolemHead
+    second: {fileID: 2100000, guid: 5abfe89e46828814aa7eebaa19cc3126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrisManoGolem
+    second: {fileID: 2100000, guid: 4368e73866fa19843978b122a5e54c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LadrillosCaminoTextura
+    second: {fileID: 2100000, guid: 8f0efc55633cc4145a88377ca3b25a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b9dc0a338990cb644b04f3a7f668dfaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIlarCemento
+    second: {fileID: 2100000, guid: 0ebacc893ba4fb147b347ffffeb7a11b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParedesM5
+    second: {fileID: 2100000, guid: 4450883ac9d45174c9e7e6a4acfc7327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PastoLowPoly
+    second: {fileID: 2100000, guid: 85a0d18cee9dcdb46ad07051307abf54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarDmgNivel1
+    second: {fileID: 2100000, guid: 587b787d124da5f46b9ba78ea1dfe0bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarDmgNivel10
+    second: {fileID: 2100000, guid: 95b2fcf132ab6a645a8791c92ece96ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarDmgNivel5
+    second: {fileID: 2100000, guid: 33fe8341f4ae3b14e977c3b7ec3cd454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarFiRaNivel1
+    second: {fileID: 2100000, guid: dc1e3820df12fd14c935e641bcbc7446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarFiRaNivel10
+    second: {fileID: 2100000, guid: 85b4f55b7e437b04aab17959f550bd86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarFiRaNivel5
+    second: {fileID: 2100000, guid: 4a358d6c256dc0248b53402a5274c107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarRangeNivel1
+    second: {fileID: 2100000, guid: 7992fb4052d3a5244a31b52a2624cfb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarRangeNivel10
+    second: {fileID: 2100000, guid: 6beb53a505bb3414cab8fca955b5bf84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PilarRangeNivel5
+    second: {fileID: 2100000, guid: 8847ce91f7d1e0541a23b56ffdcc95ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pino
+    second: {fileID: 2100000, guid: fb1ff03427c3b904a9da79afadc8caf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuertaDiamond
+    second: {fileID: 2100000, guid: 406139056382bc546aa044da5bccf44d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuertaRemovibleStart
+    second: {fileID: 2100000, guid: 1472cf77a0fee6446bf1beebcd96bce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SalidaStart
+    second: {fileID: 2100000, guid: 7bf23698b805b7e48b669be9997a049d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura
+    second: {fileID: 2100000, guid: 83f40df00e327d549b2163d2267a335a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturaPuente
+    second: {fileID: 2100000, guid: 3f7723b935ff43a4f8f07d249c7e5c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VolcanTexture
+    second: {fileID: 2100000, guid: 8b40d717336c12147a84f13e8eb6b8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escaleras1
+    second: {fileID: 2100000, guid: ed78c9af42b221a4886526fd3dc706ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escaleras2
+    second: {fileID: 2100000, guid: 717c4bc71d1d8954fb7a90b763328af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escaleras3
+    second: {fileID: 2100000, guid: dd1d1bd710b083c41bb03c509b29bc98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sarcofago
+    second: {fileID: 2100000, guid: 754463b7a67d2024193248d07f1f79dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sombrero
+    second: {fileID: 2100000, guid: 1c044c12e1630874aac9a84fc86c11c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: c4e5e0a46bbd06042b1ad2e7585b2422, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
